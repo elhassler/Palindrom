@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+//hkjh
     TextView str;
     Button btn;
     TextView erg;
